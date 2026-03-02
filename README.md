@@ -15,8 +15,8 @@ Dataset Name: Sonar Dataset
 - <a href = "https://github.com/Chandu4603/Rock-vs-Mine-Prediction/blob/main/Copy%20of%20sonar%20data.csv"> Data Set </a>
 
 Total Features: 60 numeric attributes
-
 - < a href = "https://github.com/Chandu4603/Rock-vs-Mine-Prediction/blob/main/Screenshot%202026-03-02%20193327.png"> Loaded DataSet </a>
+
 Target Variable: Object Type (R/M)
 Type: Binary Classification
 Domain: Defense / Underwater Object Detection
