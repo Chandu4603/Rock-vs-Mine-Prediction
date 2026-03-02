@@ -12,10 +12,10 @@ using Logistic Regression.
 
 ## 📊 Dataset Information
 Dataset Name: Sonar Dataset
-<a href = "https://github.com/Chandu4603/Rock-vs-Mine-Prediction/blob/main/Copy%20of%20sonar%20data.csv"> Data Set </a>
+- <a href = "https://github.com/Chandu4603/Rock-vs-Mine-Prediction/blob/main/Copy%20of%20sonar%20data.csv"> Data Set </a>
 
 Total Features: 60 numeric attributes
-< a href = "https://github.com/Chandu4603/Rock-vs-Mine-Prediction/blob/main/Screenshot%202026-03-02%20193327.png"> Loaded Data Set </a>
+- < a href = "https://github.com/Chandu4603/Rock-vs-Mine-Prediction/blob/main/Screenshot%202026-03-02%20193327.png"> Loaded Data Set </a>
 Target Variable: Object Type (R/M)
 Type: Binary Classification
 Domain: Defense / Underwater Object Detection
